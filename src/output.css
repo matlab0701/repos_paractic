@@ -1138,6 +1138,46 @@ video {
     top: 800px;
   }
 
+  .sm\:top-\[840px\] {
+    top: 840px;
+  }
+
+  .sm\:top-\[940px\] {
+    top: 940px;
+  }
+
+  .sm\:top-\[40px\] {
+    top: 40px;
+  }
+
+  .sm\:top-\[540px\] {
+    top: 540px;
+  }
+
+  .sm\:top-\[1540px\] {
+    top: 1540px;
+  }
+
+  .sm\:top-\[1740px\] {
+    top: 1740px;
+  }
+
+  .sm\:top-\[1940px\] {
+    top: 1940px;
+  }
+
+  .sm\:top-\[2040px\] {
+    top: 2040px;
+  }
+
+  .sm\:top-\[1970px\] {
+    top: 1970px;
+  }
+
+  .sm\:top-\[1980px\] {
+    top: 1980px;
+  }
+
   .sm\:px-\[30px\] {
     padding-left: 30px;
     padding-right: 30px;
